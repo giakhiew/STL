@@ -1,0 +1,3 @@
+﻿  SET_MAP_COBAN.cpp
+D:\GiaKhiem\Offline\SET_MAP_COBAN\SET_MAP_COBAN\SET_MAP_COBAN.cpp(173,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  SET_MAP_COBAN.vcxproj -> D:\GiaKhiem\Offline\SET_MAP_COBAN\SET_MAP_COBAN\x64\Debug\SET_MAP_COBAN.exe

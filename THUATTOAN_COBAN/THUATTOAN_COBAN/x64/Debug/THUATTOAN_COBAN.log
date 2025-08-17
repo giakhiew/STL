@@ -1,0 +1,17 @@
+﻿  THUATTOAN_COBAN.cpp
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(39,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(46,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(53,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(58,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(69,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(78,16): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(81,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(161,16): warning C4091: 'typedef ': ignored on left of 'Hocsinh' when no variable is declared
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(225,16): warning C4091: 'typedef ': ignored on left of 'Diem' when no variable is declared
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(231,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(232,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(416,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(209,1): warning C4715: 'ChuoiTang': not all control paths return a value
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(260,1): warning C4715: 'ChuoiGiam': not all control paths return a value
+D:\GiaKhiem\Offline\THUATTOAN_COBAN\THUATTOAN_COBAN.cpp(115,1): warning C4715: '`TimKyTutrongChuoi'::`2'::<lambda_1>::operator()': not all control paths return a value
+  THUATTOAN_COBAN.vcxproj -> D:\GiaKhiem\Offline\THUATTOAN_COBAN\x64\Debug\THUATTOAN_COBAN.exe

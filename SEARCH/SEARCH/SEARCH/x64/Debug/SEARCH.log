@@ -1,0 +1,5 @@
+﻿  SEARCH.cpp
+D:\GiaKhiem\STL\SEARCH\SEARCH\SEARCH.cpp(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\STL\SEARCH\SEARCH\SEARCH.cpp(47,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GiaKhiem\STL\SEARCH\SEARCH\SEARCH.cpp(48,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SEARCH.vcxproj -> D:\GiaKhiem\STL\SEARCH\SEARCH\x64\Debug\SEARCH.exe

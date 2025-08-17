@@ -1,0 +1,6 @@
+﻿  stack.cpp
+D:\GiaKhiem\Offline\STACK_COBAN\stack.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+D:\GiaKhiem\Offline\STACK_COBAN\stack.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+D:\GiaKhiem\Offline\STACK_COBAN\stack.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+D:\GiaKhiem\Offline\STACK_COBAN\stack.cpp(44,27): warning C4018: '<': signed/unsigned mismatch
+D:\GiaKhiem\Offline\STACK_COBAN\stack.cpp(91,1): error C4716: 'XetVongTron': must return a value

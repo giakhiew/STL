@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GiaKhiem\\STL\\SEARCH\\SEARCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89910AE-259B-4B50-BDFD-436BB8CE146E}|SEARCH.vcxproj|D:\\GiaKhiem\\STL\\SEARCH\\SEARCH\\SEARCH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B89910AE-259B-4B50-BDFD-436BB8CE146E}|SEARCH.vcxproj|solutionrelative:SEARCH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SEARCH.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\STL\\SEARCH\\SEARCH\\SEARCH.cpp",
+              "RelativeDocumentMoniker": "SEARCH.cpp",
+              "ToolTip": "D:\\GiaKhiem\\STL\\SEARCH\\SEARCH\\SEARCH.cpp",
+              "RelativeToolTip": "SEARCH.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T02:25:55.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

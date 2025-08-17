@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Code\\code_C\u002B\u002B\\THUATTOAN_COBAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|D:\\IT\\Code\\code_C\u002B\u002B\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|solutionrelative:THUATTOAN_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\XSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "THUATTOAN_COBAN.cpp",
+              "DocumentMoniker": "D:\\IT\\Code\\code_C\u002B\u002B\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp",
+              "RelativeDocumentMoniker": "THUATTOAN_COBAN.cpp",
+              "ToolTip": "D:\\IT\\Code\\code_C\u002B\u002B\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp*",
+              "RelativeToolTip": "THUATTOAN_COBAN.cpp*",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T02:17:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "ViewState": "AQIAAHwHAAAAAAAAAAAlwIwHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T03:29:10.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "ViewState": "AQIAAAEZAAAAAAAAAAAQwA4ZAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T03:22:32.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
