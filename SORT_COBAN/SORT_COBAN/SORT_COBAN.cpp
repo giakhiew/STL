@@ -296,14 +296,86 @@ void CaSiLeRo(int n, vector<pair<int,int>> arr) {
 	cout << max;
 }
 
+void in_theo_khuon_dang(int n, vector<int> arr) {
+	sort(arr.begin(), arr.end());
+	int size = arr.size();
+	int j = size - 1;
+	for (int i = 0; i < size; i++) {
+		if (size % 2 == 0) { // so chan
+			if (i > j) break;
+		}
+		else { // so le
+			if (i == j) {
+				cout << arr[i];
+				break;
+			}
+		}
+		cout << arr[j--] << " " << arr[i] << " ";
+	}
+}
+
+void counting_sort(int n, vector<int> arr) {
+	map<int, int> m;
+	vector<int> arrtam;
+	for (auto item : arr) m[item]++;
+	for (auto item : m) {
+		while (item.second > 0) {
+			item.second--;
+			arrtam.push_back(item.first);
+		}
+	}
+	for (auto item : arrtam) cout << item << ' ';
+}
+
+void cap_co_tong_bang_k(int n, int k, vector<int> arr) {
+	int sum = 0;
+	sort(arr.begin(), arr.end());
+	
+	for (int i = 0; i < n; i++) {
+		if (arr[i] > k) break;
+		for (int j = n - 1; j > i; j--) {
+			if (arr[i] + arr[j] == k) sum++;
+		}
+	}
+
+	cout << sum;
+}
+
+void cap_co_tong_nho_hon_k(int n, int k, vector<int> arr) {
+	sort(arr.begin(), arr.end());
+	int sum = 0;
+
+	for (int i = 0; i < n; i++) {
+		if (arr[i] == k) break;
+		for (int j = n - 1; j > i; j--) {
+			if (arr[i] + arr[j] < k) sum++;
+		}
+	}
+
+	cout << sum;
+}
+
+void cap_co_tong_lon_hon_k(int n, int k, vector<int> arr) {
+	sort(arr.begin(), arr.end());
+	int sum = 0;
+
+	for (int i = 0; i < n; i++) {
+		for (int j = n - 1; j > i; j--) {
+			if (arr[i] + arr[j] > k) sum++;
+		}
+	}
+
+	cout << sum;
+}
 int main()
-{
+{	//7, 1, 6, 2, 5, 3, 4 
+	//1 ,6, 9 ,4 ,3 ,7 ,8, 2 
 	vector<int> arr1 = {1,2,3,4,5,6,7};
-	vector<int> arr2 = { 2,3,3,7 };
+	vector<int> arr2 = {2,2,2,2};
 	vector<int> arr3 = { 100,200,300,400,500,600,700,800 };
 	vector<int> arr4 = { 1,2,3,4,5 };
 	vector<pair<int, int>> arr5 = { {5,6} , {1,2} ,{7,8},{3,4} };
-	CaSiLeRo(4, arr5);
+	cap_co_tong_bang_k(arr2.size(), 4, arr2);
 	/*int T = 4;
 	int N, K, tam;
 	vector<vector<int>> arr(T);

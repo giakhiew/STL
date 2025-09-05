@@ -1,3 +1,5 @@
 ﻿  SORT_COBAN.cpp
-D:\GiaKhiem\STL\SORT_COBAN\SORT_COBAN\SORT_COBAN.cpp(270,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  SORT_COBAN.vcxproj -> D:\GiaKhiem\STL\SORT_COBAN\SORT_COBAN\x64\Debug\SORT_COBAN.exe
+D:\IT\Code\code_C++\STL\SORT_COBAN\SORT_COBAN\SORT_COBAN.cpp(270,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\IT\Code\code_C++\STL\SORT_COBAN\SORT_COBAN\SORT_COBAN.cpp(301,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IT\Code\code_C++\STL\SORT_COBAN\SORT_COBAN\SORT_COBAN.cpp(378,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SORT_COBAN.vcxproj -> D:\IT\Code\code_C++\STL\SORT_COBAN\SORT_COBAN\x64\Debug\SORT_COBAN.exe
