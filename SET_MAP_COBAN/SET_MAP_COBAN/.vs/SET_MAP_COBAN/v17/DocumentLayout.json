@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GiaKhiem\\Offline\\SET_MAP_COBAN\\SET_MAP_COBAN\\",
+  "WorkspaceRootPath": "D:\\GiaKhiem\\STL\\SET_MAP_COBAN\\SET_MAP_COBAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF870192-640C-44CB-BD13-94087020AA2B}|SET_MAP_COBAN.vcxproj|D:\\GiaKhiem\\Offline\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FF870192-640C-44CB-BD13-94087020AA2B}|SET_MAP_COBAN.vcxproj|D:\\GiaKhiem\\STL\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF870192-640C-44CB-BD13-94087020AA2B}|SET_MAP_COBAN.vcxproj|solutionrelative:SET_MAP_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SET_MAP_COBAN.cpp",
-              "DocumentMoniker": "D:\\GiaKhiem\\Offline\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\STL\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp",
               "RelativeDocumentMoniker": "SET_MAP_COBAN.cpp",
-              "ToolTip": "D:\\GiaKhiem\\Offline\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp",
+              "ToolTip": "D:\\GiaKhiem\\STL\\SET_MAP_COBAN\\SET_MAP_COBAN\\SET_MAP_COBAN.cpp",
               "RelativeToolTip": "SET_MAP_COBAN.cpp",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAAAK8AAAAPAAAA",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAALgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-07T02:50:01.523Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GiaKhiem\\Offline\\THUATTOAN_COBAN\\",
+  "WorkspaceRootPath": "D:\\GiaKhiem\\STL\\THUATTOAN_COBAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|D:\\GiaKhiem\\Offline\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|D:\\GiaKhiem\\STL\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B55E2360-DB5B-4F2E-8EDD-1C2154F81B07}|THUATTOAN_COBAN.vcxproj|solutionrelative:THUATTOAN_COBAN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -62,11 +62,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "THUATTOAN_COBAN.cpp",
-              "DocumentMoniker": "D:\\GiaKhiem\\Offline\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\STL\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp",
               "RelativeDocumentMoniker": "THUATTOAN_COBAN.cpp",
-              "ToolTip": "D:\\GiaKhiem\\Offline\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp",
+              "ToolTip": "D:\\GiaKhiem\\STL\\THUATTOAN_COBAN\\THUATTOAN_COBAN.cpp",
               "RelativeToolTip": "THUATTOAN_COBAN.cpp",
-              "ViewState": "AQIAALYBAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AQIAAMgBAAAAAAAAAAAAAMsBAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-29T02:17:13.514Z",
               "EditorCaption": ""
