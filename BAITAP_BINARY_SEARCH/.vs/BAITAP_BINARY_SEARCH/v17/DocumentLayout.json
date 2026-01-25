@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GiaKhiem\\STL\\BAITAP_BINARY_SEARCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5029D7B-386F-4CDC-8432-46D3F3D9BBD1}|BAITAP_BINARY_SEARCH.vcxproj|D:\\GiaKhiem\\STL\\BAITAP_BINARY_SEARCH\\BAITAP_BINARY_SEARCH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5029D7B-386F-4CDC-8432-46D3F3D9BBD1}|BAITAP_BINARY_SEARCH.vcxproj|solutionrelative:BAITAP_BINARY_SEARCH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BAITAP_BINARY_SEARCH.cpp",
+              "DocumentMoniker": "D:\\GiaKhiem\\STL\\BAITAP_BINARY_SEARCH\\BAITAP_BINARY_SEARCH.cpp",
+              "RelativeDocumentMoniker": "BAITAP_BINARY_SEARCH.cpp",
+              "ToolTip": "D:\\GiaKhiem\\STL\\BAITAP_BINARY_SEARCH\\BAITAP_BINARY_SEARCH.cpp",
+              "RelativeToolTip": "BAITAP_BINARY_SEARCH.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T02:32:44.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
